@@ -13,7 +13,7 @@ The importance of functional testing is to make sure the application or producs 
 ## Different types of Functional Testing
   - **Unit Testing**: This type of testing test each feature of an application separately to verify that they work correctly. This is to make sure that each small part of an application works the way that is should without having to depend on the overall application.
 
-     -Example: Testing each function of a calculator: addition, subtraction, multiplcation, and division
+       - Example: Testing each function of a calculator: addition, subtraction, multiplcation, and division
     
   - **Integration Testing**: This type of testing incorporates each isolated function and combine it to the rest of the applicaiton to make sure that each unit test works properly together with other functions of the application and discover any issues that my arise.
   - **System Testing**: This type of testing validates the entire integrated application end-to-end, from start to end. This makes sure that the applications runs properly without any issues.
