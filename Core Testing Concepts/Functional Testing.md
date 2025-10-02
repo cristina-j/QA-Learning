@@ -17,8 +17,9 @@ The importance of functional testing is to make sure the application or producs 
   - **System Testing**: This type of testing validates the entire integrated application end-to-end, from start to end. This makes sure that the applications runs properly without any issues.
   - **User Acceptance Testing (UAT)**: This type of testing is like a final test that validates that application works properly. This testing is done in a real-world environment to make sure it is fully ready for deployment. This is the time where if any issues are caught, it is found and fixed before the application is released to the world.
   - **Regression Testing**: This type of testing is re-testing to make sure new changes didn't break old features of the application.
-  - **Smoke Testing**: This type of testing focuses on the critical features to make sure they are tested and it is most important they work properly
-  - **Sanity Testing**: 
+  - **Smoke Testing**: This type of testing focuses on the critical features **(main features)** to make sure they are tested, and it is most important they work properly.
+  - **Sanity Testing**: This is a form of regression testing. It is a quick check to make sure a specific piece of functionality works after a small change or a bug fix. It’s not a full test of everything.
+
 
 
 
@@ -28,3 +29,4 @@ The importance of functional testing is to make sure the application or producs 
 
 Resources to help with my learning: 
 Functional Testing - Software Testing [https://www.geeksforgeeks.org/software-testing/software-testing-functional-testing/]
+Sanity Testing [https://www.geeksforgeeks.org/software-engineering/sanity-testing/]
