@@ -29,4 +29,5 @@ The importance of functional testing is to make sure the application or producs 
 
 Resources to help with my learning: 
 Functional Testing - Software Testing [https://www.geeksforgeeks.org/software-testing/software-testing-functional-testing/]
+
 Sanity Testing [https://www.geeksforgeeks.org/software-engineering/sanity-testing/]
